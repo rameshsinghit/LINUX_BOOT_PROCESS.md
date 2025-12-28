@@ -46,5 +46,13 @@ A comprehensive guide explaining the journey from hardware power-on to the user 
 ### 8. Login Prompt
 * **Final Targets:** Reaches `multi-user.target` for CLI or `graphical.target` for GUI.
 
+
 ---
 # LINUX_BOOT_PROCESS.md
+
+https://github.com/rameshsinghit/LINUX_BOOT_PROCESS.md/blob/main/Linux%20Boot%20Process%20.pdf
+
+### 📫 Contact Details
+- 💼 **LinkedIn:** [linkedin.com/in/rameshsinghit](https://www.linkedin.com/in/rameshsinghit)
+- 📧 **Email:** [rameshit1616@gmail.com](mailto:rameshit1616@gmail.com)
+- 📍 **Location:** Gurgaon, India
